@@ -1,0 +1,51 @@
+trip_id,date,origin_city,destination_city,vehicle_type,distance_km
+1001,2025-07-01,Toronto,Montreal,TRUCK,542
+1002,2025-07-01,Toronto,Windsor,VAN,370
+1003,2025-07-02,Brampton,Ottawa,Truck,410
+1004,2025-07-02,Toronto,Dallas,TRUCK,2550
+1005,2025-07-03,Mississauga,Montreal,TRUCK,560
+1006,2025-07-03,Toronto,Chicago,TRUCK,840
+1007,2025-07-04,Brampton,Windsor,VAN,385
+1008,2025-07-04,Toronto,New York,TRUCK,790
+1009,2025-07-05,Toronto,Ottawa,truck,450
+1010,2025-07-06,Mississauga,Chicago,TRUCK,820
+1011,2025-07-07,Toronto,Montreal,TRUCK,542
+1012,2025-07-07,Toronto,Dallas,TRUCK,2550
+1013,2025-07-08,Brampton,New York,TRUCK,770
+1014,2025-07-08,Toronto,Windsor,VAN,370
+1015,2025-07-09,Mississauga,Ottawa,TRUCK,
+1016,2025-07-09,Toronto,Montreal,TRUCK,542
+1017,2025-07-10,Toronto,Chicago,TRUCK,840
+1018,2025-07-10,Brampton,Dallas,TRUCK,2520
+1019,2025-07-11,Toronto,New York,TRUCK,790
+1020,2025-07-11,Mississauga,Windsor,VAN,390
+1021,2025-07-12,Toronto,Ottawa,TRUCK,450
+1022,2025-07-13,Toronto,Montreal,truck,542
+1023,2025-07-14,Brampton,Chicago,TRUCK,830
+1024,2025-07-14,Toronto,Dallas,TRUCK,2550
+1025,2025-07-15,Mississauga,New York,TRUCK,780
+1026,2025-07-15,Toronto,Montreal,TRUCK,542
+1027,2025-07-16,Toronto,Windsor,van,370
+1028,2025-07-16,Brampton,Ottawa,TRUCK,410
+1029,2025-07-17,Mississauga,Chicago,TRUCK,820
+1030,2025-07-17,Toronto,Dallas,TRUCK,
+1031,2025-07-18,Toronto,Montreal,TRUCK,542
+1032,2025-07-18,Brampton,New York,TRUCK,770
+1033,2025-07-19,Toronto,Windsor,VAN,370
+1034,2025-07-20,Mississauga,Ottawa,TRUCK,460
+1035,2025-07-21,Toronto,Chicago,TRUCK,840
+1036,2025-07-21,Brampton,Dallas,TRUCK,2520
+1037,2025-07-22,Toronto,Montreal,TRUCK,542
+1038,2025-07-22,Mississauga,New York,TRUCK,780
+1039,2025-07-23,Toronto,Windsor,VAN,370
+1040,2025-07-23,Brampton,Chicago,TRUCK,830
+1041,2025-07-24,Toronto,Ottawa,TRUCK,450
+1042,2025-07-24,Mississauga,Dallas,TRUCK,2500
+1043,2025-07-25,Toronto,Montreal,TRUCK,542
+1044,2025-07-25,Brampton,Windsor,VAN,385
+1045,2025-07-26,Toronto,New York,TRUCK,790
+1046,2025-07-27,Mississauga,Chicago,TRUCK,820
+1047,2025-07-28,Toronto,Dallas,TRUCK,2550
+1048,2025-07-28,Brampton,Montreal,TRUCK,520
+1049,2025-07-29,Toronto,Ottawa,TRUCK,450
+1050,2025-07-29,Mississauga,Windsor,VAN,390
