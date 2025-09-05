@@ -36,7 +36,7 @@ SUBJECT: Final Analysis: Mitigating Risk from Fuel Volatility and Lane Inefficie
 The primary driver of risk in July was the external market. Diesel prices in the Greater Toronto Area showed a consistent upward trend, increasing our baseline costs and making every operational inefficiency more costly.
 
 <div class="chart">
-<img src="daily_average_price.png" alt="Line chart showing fuel price trends for July 2025, indicating a steady increase throughout the month.">
+<img src="fuel_price_volatility.png" alt="Line chart showing fuel price trends for July 2025, indicating a steady increase throughout the month.">
 <p class="chart-caption">Figure 1: Daily average price of diesel in Ontario for July 2025.</p>
 </div>
 
