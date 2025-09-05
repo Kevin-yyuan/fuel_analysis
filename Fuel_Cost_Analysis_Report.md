@@ -37,7 +37,7 @@ SUBJECT: Strategic Analysis: Pinpointing Fuel Cost Exposure in North American Fr
 The analysis of all 50 trips in July 2025 shows a direct correlation between route distance and fuel cost per kilometer. As illustrated in the chart below, cross-border routes to the United States are the most expensive to operate from a fuel perspective.
 
 <div class="chart">
-<img src="https://www.google.com/search?q=https://i.imgur.com/8aV4z7G.png" alt="Bar chart showing the average fuel cost per kilometer by route. The Toronto to Dallas route is the highest at over $0.60/km.">
+<img src="blob:vscode-webview://178p91fpburms38p1u28fm0c2c6ho64ev1vaed5qtk0t5h3rusgo/3a32115c-08bc-4003-8359-5220e154d1d6" alt="Bar chart showing the average fuel cost per kilometer by route. The Toronto to Dallas route is the highest at over $0.60/km.">
 <p class="chart-caption">Figure 1: Comparison of average fuel cost per kilometer for key routes. Long-haul routes show significantly higher costs.</p>
 </div>
 
@@ -48,7 +48,7 @@ Key Insight: The Toronto to Dallas route averaged $0.61/km in fuel costs. This i
 The month of July saw a consistent upward trend in diesel prices, increasing by over 10% from start to finish. This volatility magnifies the financial risk on our longest and most frequent routes.
 
 <div class="chart">
-<img src="https://www.google.com/search?q=https://i.imgur.com/eBf7pS1.png" alt="Line chart showing fuel price trends for July 2025, indicating a steady increase throughout the month.">
+<img src="blob:vscode-webview://178p91fpburms38p1u28fm0c2c6ho64ev1vaed5qtk0t5h3rusgo/7757c2d6-c935-4800-8366-3cda9256bad9" alt="Line chart showing fuel price trends for July 2025, indicating a steady increase throughout the month.">
 <p class="chart-caption">Figure 2: Daily average price of diesel in Ontario for July 2025.</p>
 </div>
 
